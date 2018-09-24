@@ -78,3 +78,9 @@ open -a "/usr/local/Caskroom/private-internet-access/81/Private Internet Access 
 
 # Install Veracrypt drive and virtual drive encryption
 brew cask install veracrypt
+
+# Install Firefox
+brew cask install firefox
+
+# Install Thunderbird
+brew cask install thunderbird
