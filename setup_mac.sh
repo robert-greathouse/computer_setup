@@ -21,6 +21,9 @@ brew install coreutils findutils gnu-tar gnu-sed gawk gnutls gnu-indent gnu-geto
 # Install Java runtime
 brew cask install java
 
+# Install Java 8
+brew cask install caskroom/versions/java8
+
 #Install Go runtime
 brew install go --cross-compile-common
 
