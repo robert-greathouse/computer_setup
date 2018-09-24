@@ -75,3 +75,6 @@ brew cask install path-finder
 #Install Private Internet Access
 brew cask install private-internet-access
 open -a "/usr/local/Caskroom/private-internet-access/81/Private Internet Access Installer.app"
+
+# Install Veracrypt drive and virtual drive encryption
+brew cask install veracrypt
